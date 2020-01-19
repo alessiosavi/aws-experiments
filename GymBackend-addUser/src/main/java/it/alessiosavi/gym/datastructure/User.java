@@ -1,19 +1,28 @@
 package it.alessiosavi.gym.datastructure;
 
-import java.time.ZonedDateTime;
+import com.fasterxml.jackson.databind.annotation.JsonDeserialize;
+import com.fasterxml.jackson.databind.annotation.JsonSerialize;
+import com.fasterxml.jackson.datatype.jsr310.deser.LocalDateDeserializer;
+import com.fasterxml.jackson.datatype.jsr310.ser.LocalDateSerializer;
+
+import java.time.LocalDate;
 
 public class User {
     private String username;
     private String name;
     private String surname;
     private String mail;
-    private ZonedDateTime time;
-    private ZonedDateTime registerDate;
+    @JsonDeserialize(using = LocalDateDeserializer.class)
+    @JsonSerialize(using = LocalDateSerializer.class)
+    private LocalDate time;
+    @JsonDeserialize(using = LocalDateDeserializer.class)
+    @JsonSerialize(using = LocalDateSerializer.class)
+    private LocalDate registerDate;
 
     public User() {
     }
 
-    public User(String username, String name, String surname, String mail, ZonedDateTime time, ZonedDateTime registerDate) {
+    public User(String username, String name, String surname, String mail, LocalDate time, LocalDate registerDate) {
         this.username = username;
         this.name = name;
         this.surname = surname;
@@ -54,19 +63,19 @@ public class User {
         this.mail = mail;
     }
 
-    public ZonedDateTime getTime() {
+    public LocalDate getTime() {
         return time;
     }
 
-    public void setTime(ZonedDateTime time) {
+    public void setTime(LocalDate time) {
         this.time = time;
     }
 
-    public ZonedDateTime getRegisterDate() {
+    public LocalDate getRegisterDate() {
         return registerDate;
     }
 
-    public void setRegisterDate(ZonedDateTime registerDate) {
+    public void setRegisterDate(LocalDate registerDate) {
         this.registerDate = registerDate;
     }
 
@@ -82,3 +91,4 @@ public class User {
                 '}';
     }
 }
+

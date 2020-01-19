@@ -2,45 +2,46 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f22be9ed-524d-415b-8065-62bb924291ff" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GymBackend/GymBackend.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GymBackend/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GymBackend/src/main/java/it/alessiosavi/gym/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GymBackend/src/main/java/it/alessiosavi/gym/datastructure/Course.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GymBackend/src/main/java/it/alessiosavi/gym/datastructure/Request.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GymBackend/src/main/java/it/alessiosavi/gym/datastructure/Response.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GymBackend/src/main/java/it/alessiosavi/gym/datastructure/Trainer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GymBackend/src/main/java/it/alessiosavi/gym/datastructure/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cdk-init-cluster" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/it/alessiosavi/gym/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/it/alessiosavi/gym/AppTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cdk-init-cluster/cdk.out/CdkInitClusterStack.template.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cdk-init-cluster/cdk.out/asset.c0d1bb40841e561dac007779b0cb63b4fbd3f89bb7bc2203001f369b3308a243.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cdk-init-cluster/cdk.out/cdk.out" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cdk-init-cluster/cdk.out/manifest.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cdk-init-cluster/cdk.out/tree.json" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/aws.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GymBackend-addUser/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GymBackend-addUser/GymBackend-addUser.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GymBackend-addUser/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GymBackend-addUser/src/main/java/it/alessiosavi/gym/Util.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GymBackend-addUser/src/main/java/it/alessiosavi/gym/datastructure/Constants.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GymBackend-addUser/src/main/java/it/alessiosavi/gym/datastructure/Response.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GymBackend-addUser/src/main/java/it/alessiosavi/gym/datastructure/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GymBackend-addUser/GymBackend.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GymBackend-addUser/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/GymBackend-addUser/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GymBackend-addUser/src/main/java/it/alessiosavi/gym/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/GymBackend-addUser/src/main/java/it/alessiosavi/gym/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GymBackend-addUser/src/main/java/it/alessiosavi/gym/datastructure/Course.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GymBackend-addUser/src/main/java/it/alessiosavi/gym/datastructure/Request.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GymBackend-addUser/src/main/java/it/alessiosavi/gym/datastructure/Trainer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GymBackend-addUser/src/main/java/it/alessiosavi/gym/datastructure/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/GymBackend-addUser/src/main/java/it/alessiosavi/gym/datastructure/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GymBackend/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GymBackend/GymBackend.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GymBackend/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GymBackend/src/main/java/it/alessiosavi/gym/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GymBackend/src/main/java/it/alessiosavi/gym/datastructure/Course.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GymBackend/src/main/java/it/alessiosavi/gym/datastructure/Request.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GymBackend/src/main/java/it/alessiosavi/gym/datastructure/Response.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GymBackend/src/main/java/it/alessiosavi/gym/datastructure/Trainer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GymBackend/src/main/java/it/alessiosavi/gym/datastructure/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cdk-init-cluster" beforeDir="false" afterPath="$PROJECT_DIR$/cdk-init-cluster" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cdk-init-cluster/src/main/java/it/alessiosavi/gym/CdkInitClusterStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/cdk-init-cluster/src/main/java/it/alessiosavi/gym/CdkInitClusterStack.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cdk-init-cluster/target/cdk-init-cluster-v0.0.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cdk-init-cluster/target/classes/it/alessiosavi/gym/CdkInitClusterApp.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cdk-init-cluster/target/classes/it/alessiosavi/gym/CdkInitClusterStack.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cdk-init-cluster/target/classes/it/alessiosavi/gym/Constants.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cdk-init-cluster/target/maven-archiver/pom.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cdk-init-cluster/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cdk-init-cluster/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cdk-init-cluster/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cdk-init-cluster/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cdk-init-cluster/src/main/java/it/alessiosavi/gym/Constants.java" beforeDir="false" afterPath="$PROJECT_DIR$/cdk-init-cluster/src/main/java/it/alessiosavi/gym/Constants.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -50,7 +51,10 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/GymBackend-addUser" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/GymBackend-addUser/src/main/java/it/alessiosavi/gym/datastructure/User.java" root0="SKIP_INSPECTION" />
   </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
@@ -68,10 +72,12 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -98,19 +104,32 @@
     </task>
     <servers />
   </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/GymBackend" />
+    </ignored-roots>
+  </component>
   <component name="WindowStateProjectService">
     <state x="555" y="198" width="800" height="684" key="#Project_Structure" timestamp="1579305558073">
       <screen x="0" y="27" width="1920" height="1020" />
     </state>
     <state x="555" y="198" width="800" height="684" key="#Project_Structure/0.27.1920.1020@0.27.1920.1020" timestamp="1579305558073" />
-    <state x="768" y="256" width="549" height="569" key="#com.intellij.ide.util.MemberChooser" timestamp="1579340903629">
+    <state x="768" y="256" width="549" height="569" key="#com.intellij.ide.util.MemberChooser" timestamp="1579362656797">
       <screen x="0" y="27" width="1920" height="1020" />
     </state>
-    <state x="768" y="256" width="549" height="569" key="#com.intellij.ide.util.MemberChooser/0.27.1920.1020@0.27.1920.1020" timestamp="1579340903629" />
+    <state x="768" y="256" width="549" height="569" key="#com.intellij.ide.util.MemberChooser/0.27.1920.1020@0.27.1920.1020" timestamp="1579362656797" />
     <state x="651" y="27" width="608" height="1020" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1579340870480">
       <screen x="0" y="27" width="1920" height="1020" />
     </state>
     <state x="651" y="27" width="608" height="1020" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.27.1920.1020@0.27.1920.1020" timestamp="1579340870480" />
+    <state x="693" y="285" width="524" height="510" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1579352271598">
+      <screen x="0" y="27" width="1920" height="1020" />
+    </state>
+    <state x="693" y="285" width="524" height="510" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.27.1920.1020@0.27.1920.1020" timestamp="1579352271598" />
+    <state x="697" y="372" width="515" height="336" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1579352771926">
+      <screen x="0" y="27" width="1920" height="1020" />
+    </state>
+    <state x="697" y="372" width="515" height="336" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.27.1920.1020@0.27.1920.1020" timestamp="1579352771926" />
     <state width="1874" height="265" key="GridCell.Tab.0.bottom" timestamp="1579305829026">
       <screen x="0" y="27" width="1920" height="1020" />
     </state>
@@ -127,26 +146,26 @@
       <screen x="0" y="27" width="1920" height="1020" />
     </state>
     <state width="1874" height="265" key="GridCell.Tab.0.right/0.27.1920.1020@0.27.1920.1020" timestamp="1579305829025" />
-    <state x="493" y="284" width="924" height="602" key="Maven.ArtifactSearchDialog" timestamp="1579340761330">
+    <state x="493" y="284" width="924" height="602" key="Maven.ArtifactSearchDialog" timestamp="1579370439576">
       <screen x="0" y="27" width="1920" height="1020" />
     </state>
-    <state x="493" y="284" width="924" height="602" key="Maven.ArtifactSearchDialog/0.27.1920.1020@0.27.1920.1020" timestamp="1579340761330" />
-    <state x="443" y="114" width="1024" height="852" key="SettingsEditor" timestamp="1579339427378">
+    <state x="493" y="284" width="924" height="602" key="Maven.ArtifactSearchDialog/0.27.1920.1020@0.27.1920.1020" timestamp="1579370439576" />
+    <state x="443" y="114" width="1024" height="852" key="SettingsEditor" timestamp="1579392140810">
       <screen x="0" y="27" width="1920" height="1020" />
     </state>
-    <state x="443" y="114" width="1024" height="852" key="SettingsEditor/0.27.1920.1020@0.27.1920.1020" timestamp="1579339427378" />
-    <state x="620" y="364" key="com.intellij.ide.util.TipDialog" timestamp="1579339080678">
+    <state x="443" y="114" width="1024" height="852" key="SettingsEditor/0.27.1920.1020@0.27.1920.1020" timestamp="1579392140810" />
+    <state x="620" y="364" key="com.intellij.ide.util.TipDialog" timestamp="1579369920016">
       <screen x="0" y="27" width="1920" height="1020" />
     </state>
-    <state x="620" y="364" key="com.intellij.ide.util.TipDialog/0.27.1920.1020@0.27.1920.1020" timestamp="1579339080678" />
+    <state x="620" y="364" key="com.intellij.ide.util.TipDialog/0.27.1920.1020@0.27.1920.1020" timestamp="1579369920016" />
     <state x="281" y="240" width="1347" height="600" key="new project wizard" timestamp="1579305389546">
       <screen x="0" y="27" width="1920" height="1020" />
     </state>
     <state x="281" y="240" width="1347" height="600" key="new project wizard/0.27.1920.1020@0.27.1920.1020" timestamp="1579305389546" />
-    <state x="624" y="244" key="run.anything.popup" timestamp="1579340431615">
+    <state x="624" y="244" key="run.anything.popup" timestamp="1579361944847">
       <screen x="0" y="27" width="1920" height="1020" />
     </state>
-    <state x="624" y="244" key="run.anything.popup/0.27.1920.1020@0.27.1920.1020" timestamp="1579340431615" />
+    <state x="624" y="244" key="run.anything.popup/0.27.1920.1020@0.27.1920.1020" timestamp="1579361944847" />
     <state x="623" y="251" width="672" height="678" key="search.everywhere.popup" timestamp="1579339517432">
       <screen x="0" y="27" width="1920" height="1020" />
     </state>
